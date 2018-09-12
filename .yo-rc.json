@@ -1,0 +1,9 @@
+{
+    "generator-node": {
+        "promptValues": {
+            "authorName": "Stephen S",
+            "authorEmail": "webstacker@outlook.com",
+            "authorUrl": ""
+        }
+    }
+}

@@ -1,7 +1,7 @@
 {
     "name": "json-rules",
-    "version": "0.0.0",
-    "description": "Evaluate logic rules encoded in JSON",
+    "version": "0.1.0",
+    "description": "Evaluate logic rules in JSON",
     "homepage": "",
     "author": "Stephen S <webstacker@outlook.com>",
     "files": [
@@ -28,7 +28,7 @@
     },
     "scripts": {
         "prepublishOnly": "nsp check",
-        "pretestzzz": "eslint .",
+        "pretest": "eslint .",
         "test": "jest",
         "coverage": "jest --coverage"
     },

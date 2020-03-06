@@ -23,7 +23,8 @@
         "jest": "^24.9.0",
         "lint-staged": "^9.5.0",
         "nsp": "^3.2.1",
-        "prettier": "^1.19.1"
+        "prettier": "^1.19.1",
+        "q-base-config": "github:CriminalInjuriesCompensationAuthority/q-base-config#v0.6.0"
     },
     "engines": {
         "npm": ">= 4.0.0"
@@ -83,9 +84,7 @@
     "directories": {
         "lib": "lib"
     },
-    "dependencies": {
-        "q-base-config": "github:CriminalInjuriesCompensationAuthority/q-base-config#v0.6.0"
-    },
+    "dependencies": {},
     "_m0": {
         "devDependencies": {
             "eslint": "^6.8.0",
